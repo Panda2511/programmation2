@@ -1,4 +1,7 @@
 # programmation2
+
+Audrey Beeler, Basile Feller, Cyrille Gay-Crosier, Dominique Mucaria, Robin Pitteloud
+
 Dossier pour le cours en informatique
 
 Le logiciel consiste en un organisateur d&#39;événements (fêtes, rencontres, autres) simple qui
