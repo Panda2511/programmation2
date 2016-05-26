@@ -1,4 +1,4 @@
-# programmation2
+# programmation2 - projet Meteor *Application organisatrice d'événements*
 
 Dossier du projet Meteor *Application organisatrice d'événements* - Semestre de printemps - 30 mai 2016
 Membres du groupe :
